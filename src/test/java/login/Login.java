@@ -51,5 +51,10 @@ public class Login {
 	public void verifyLoginWithGmail2() {
 
 	}
+	
+	@Test
+	public void verifyLoginWithMicrosoft() {
+
+	}
 
 }
