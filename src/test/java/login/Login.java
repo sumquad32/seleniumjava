@@ -29,9 +29,13 @@ public class Login {
 	}
 
 	@Test
-	public void verifyLogin() {
-		
+	public void verifyLoginWithValidCredentials() {
+
 	}
 
+	@Test
+	public void verifyLoginWithInValidCredentials() {
+
+	}
 
 }
