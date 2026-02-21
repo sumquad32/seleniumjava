@@ -44,7 +44,7 @@ public class Login {
 	}
 	
 	@Test
-	public void verifyLoginWithGmail() {
+	public void verifyLoginWithGmail2() {
 
 	}
 	
