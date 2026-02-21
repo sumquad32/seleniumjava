@@ -37,5 +37,11 @@ public class Login {
 	public void verifyLoginWithInValidCredentials() {
 
 	}
+	
+	@Test
+	public void verifyLoginWithoutCredentials() {
+
+	}
+	
 
 }
