@@ -33,4 +33,9 @@ public class Demo {
 		Assert.assertEquals(driver.getTitle(), "Your Store");
 	}
 
+	@Test
+	public void checkURL() {
+		Assert.assertEquals(driver.getCurrentUrl(), "https://tutorialsninja.com/demo/");
+	}
+
 }
