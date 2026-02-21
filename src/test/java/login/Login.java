@@ -37,16 +37,19 @@ public class Login {
 	public void verifyLoginWithInValidCredentials() {
 
 	}
-	
+
 	@Test
 	public void verifyLoginWithoutCredentials() {
 
 	}
-	
+
 	@Test
 	public void verifyLoginWithGmail1() {
+	}
+
+	@Test
+	public void verifyLoginWithGmail2() {
 
 	}
-	
 
 }
