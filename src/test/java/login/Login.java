@@ -56,5 +56,10 @@ public class Login {
 	public void verifyLoginWithMicrosoft() {
 
 	}
+	
+	@Test
+	public void verifyLoginWithSSO() {
+
+	}
 
 }
